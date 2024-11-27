@@ -1,0 +1,15 @@
+C:\Users\k-tech\source\repos\product_class\bin\Debug\net7.0\product_class.exe
+C:\Users\k-tech\source\repos\product_class\bin\Debug\net7.0\product_class.deps.json
+C:\Users\k-tech\source\repos\product_class\bin\Debug\net7.0\product_class.runtimeconfig.json
+C:\Users\k-tech\source\repos\product_class\bin\Debug\net7.0\product_class.dll
+C:\Users\k-tech\source\repos\product_class\bin\Debug\net7.0\product_class.pdb
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\product_class.csproj.AssemblyReference.cache
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\product_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\product_class.AssemblyInfoInputs.cache
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\product_class.AssemblyInfo.cs
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\product_class.csproj.CoreCompileInputs.cache
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\product_class.dll
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\refint\product_class.dll
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\product_class.pdb
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\product_class.genruntimeconfig.cache
+C:\Users\k-tech\source\repos\product_class\obj\Debug\net7.0\ref\product_class.dll
